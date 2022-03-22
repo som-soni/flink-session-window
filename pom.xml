@@ -16,6 +16,5 @@
 
     <modules>
         <module>session-window-job</module>
-        <module>session-window-web</module>
     </modules>
 </project>
